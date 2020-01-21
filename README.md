@@ -5,7 +5,9 @@
     <style>
         body {background-color: white;}
         h1   {color: black;}
+    h2 {color: black}
         p    {color:  black;}
+        colum {color blak; }
         </style>
 <title>Page Title</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +24,17 @@
 <h1>Ms.Kert</h1> 
 <p>
 
-Entry level government hacker for ABC123 enterprise </p>
+Entry level government hacker for ABC123 enterprise 
+</p>
+<h2>Qualifications
+</h2>
+
+| Language       | Hard skills         | Soft skills |
+| ------------- |:-------------:| -----:|
+| 1. Java Script|1. Computer savvy |1. Multitask |
+|2. HTML     |  2. Type test 100 wpm |2. Quick learner |
+| 3. CSS|      |   |
+
 
 </body>
 </html>
