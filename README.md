@@ -25,9 +25,8 @@ colum {color blak; }
 <h1>Jumary Sanchez</h1> 
 <p>
 
-Participant of The Point CDC. I assist in projects owned by Carey Clark Piece on war 
-production and Q art co where I facilitated  meetings, 
-customer inquiries, and assist in web design for company websites. 
+Entry level web designer with experience 
+designing website for Piece on War Production and Q Art Co.
 </p>
 <h2>Qualifications
 </h2>
@@ -43,8 +42,20 @@ Experience
 </h1>
 <h3>
 F2M Fire & Drafting Designs inc</h3>
-*Layout tech*
-
+Layout Tech
+<li>Traveled to job sites to inspect the layouts of fire sprinkler systems
+</li>
+<li>Used AutoCAD and HydroCAD to create 3D models of Fire sprinkler designs</li>
+<li>Reviewed sprinkler blueprints and made appropriate corrections 
+</li>
+<h3>Womens Business Center
+</h3>Digital Marketer Intern 
+<li>Created advertisements for upcoming council meetings, events
+</li>
+<li>Maintained social media accounts for the W.B.C
+</li>
+<li> Updated the W.B.C website by using UX/UI
+</li>
 
 
 </body>
