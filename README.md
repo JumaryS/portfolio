@@ -1,14 +1,7 @@
-# portfolio
+# Portfolio
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        body {background-color: white;}
-        h1   {color: black;}
-        h2 {color: black}
-        p {color:  black;}
-colum {color blak; }
-</style>
 <title>Page Title</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" herf="style.css">
