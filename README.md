@@ -15,7 +15,7 @@
 <img src="https://media-exp2.licdn.com/dms/image/C4E03AQFdT3_qPWW8ng/profile-displayphoto-shrink_200_200/0?e=1585180800&v=beta&t=zJQQPcBS9u0-jb6okh54LQkRbJcVS_NcYRdbzca6TDQ";>
 
 
-<h1>Jumary Sanchez</h1> 
+<h1>Jumary D Sanchez</h1> 
 <p>
 
 Entry level web designer with experience 
